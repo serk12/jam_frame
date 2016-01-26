@@ -4,6 +4,7 @@
 #include "gameobject.h"
 #include "screen.h"
 //ASDFASFAS
+//qwerertqwe
 class Game : public GameObject
 {
 private:
