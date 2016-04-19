@@ -1,5 +1,5 @@
-#ifndef UTILS_H
-#define UTILS_H
+#ifndef UTILS_HH
+#define UTILS_HH
 
 #include <iostream>
 #include <fstream>
@@ -43,4 +43,4 @@ static bool parse(const char* dir,int id, std::vector<int>& info)
     }
 }*/
 
-#endif // UTILS_H
+#endif // UTILS_HH

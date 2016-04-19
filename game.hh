@@ -1,8 +1,8 @@
-#ifndef GAME_H
-#define GAME_H
+#ifndef GAME_HH
+#define GAME_HH
 
-#include "gameobject.h"
-#include "screen.h"
+#include "gameobject.hh"
+#include "screen.hh"
 //ASDFASFAS
 //qwerertqwe
 class Game : public GameObject
@@ -22,4 +22,4 @@ public:
     void start();
 };
 
-#endif // GAME_H
+#endif // GAME_HH

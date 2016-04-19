@@ -1,7 +1,7 @@
-#ifndef ACTOR_H
-#define ACTOR_H
+#ifndef ACTOR_HH
+#define ACTOR_HH
 
-#include "gameobject.h"
+#include "gameobject.hh"
 
 class Actor : public GameObject
 {
@@ -16,4 +16,4 @@ public:
     }
 };
 
-#endif // ACTOR_H
+#endif // ACTOR_HH

@@ -1,7 +1,7 @@
-#ifndef GAMEOBJECT_H
-#define GAMEOBJECT_H
+#ifndef GAMEOBJECT_HH
+#define GAMEOBJECT_HH
 
-#include "utils.h"
+#include "utils.hh"
 
 class GameObject : public sf::Drawable
 {

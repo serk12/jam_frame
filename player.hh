@@ -1,7 +1,7 @@
 #ifndef PLAYER_HH
 #define PLAYER_HH
 
-#include "actor.h"
+#include "actor.hh"
 
 class Player : public Actor
 {

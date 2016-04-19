@@ -13,11 +13,11 @@ SOURCES += \
     player.cc
 
 HEADERS += \
-    screen.h \
-    utils.h \
-    game.h \
-    gameobject.h \
-    player.h \
-    level.h \
-    actor.h
+    screen.hh \
+    utils.hh \
+    game.hh \
+    gameobject.hh \
+    player.hh \
+    level.hh \
+    actor.hh
 

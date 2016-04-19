@@ -1,9 +1,9 @@
-#ifndef SCREEN_H
-#define SCREEN_H
+#ifndef SCREEN_HH
+#define SCREEN_HH
 
-#include "gameobject.h"
-#include "player.h"
-#include "level.h"
+#include "gameobject.hh"
+#include "player.hh"
+#include "level.hh"
 
 class Screen : public GameObject
 {
@@ -21,4 +21,4 @@ public:
 };
 
 
-#endif // SCREEN_H
+#endif // SCREEN_HH

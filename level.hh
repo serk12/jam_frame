@@ -1,7 +1,7 @@
-#ifndef LEVEL_H
-#define LEVEL_H
+#ifndef LEVEL_HH
+#define LEVEL_HH
 
-#include "gameobject.h"
+#include "gameobject.hh"
 
 class Level : public GameObject
 {
